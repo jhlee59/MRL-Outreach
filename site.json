@@ -1,6 +1,6 @@
 {
-  "title": "My Project",
-  "subtitle": "A short line about what this project is.",
+  "title": "MRL OutReach",
+  "subtitle": "The process of learning and creating a vinerobot.",
   "accent": "#0f6b6b",
   "folder": "pages",
   "files": ["01-Overview.md", "02-Build-Log.md"],
