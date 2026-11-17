@@ -1,0 +1,8 @@
+{
+  "title": "My Project",
+  "subtitle": "A short line about what this project is.",
+  "accent": "#0f6b6b",
+  "folder": "pages",
+  "files": ["01-Overview.md", "02-Build-Log.md"],
+  "labels": {}
+}
